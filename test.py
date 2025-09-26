@@ -1,8 +1,7 @@
-from lib import count_common_elements
-
 def test_count_common_elements():
     # Тестирование функции count_common_elements
     # Тест 1: Обычные списки с общими элементами
+    
     list1 = [1, 2, 3, 4]
     list2 = [2, 3, 4, 5]
     list3 = [3, 4, 5, 6]
